@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tianing666
+- 👋 Hi, I’m @TianGe233
 - 👀 I’m interested in computers and music.
 - 🌱 I’m currently learning coding by Python3.
 
